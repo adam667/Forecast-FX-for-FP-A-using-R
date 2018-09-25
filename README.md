@@ -35,4 +35,4 @@ str(a10)
 ```
 
 
-<img src="Rplot.png" alt="IMAGE ALT TEXT HERE"/>
+<img src="Rplot.png" alt="Oh Snap try some porn instead"/>

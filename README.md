@@ -1,8 +1,6 @@
 # Forecast-FX-for-FP-A-using-R
 
-A step by step project on how to forecast FX rates in a FP
-
-A environment using R
+A step by step project on how to forecast FX rates using both Holt Winters and Arima. Raw historical data has been included in the repository.
 
 ## Getting Started
 
